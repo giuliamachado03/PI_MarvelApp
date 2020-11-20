@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">marvelApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="primeira_vez_por_aqui">Primeira vez por aqui?</string>
+    <string name="cadastre_se">Cadastre-se</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="btn_entrar">Entrar</string>
+    <string name="ou">ou</string>
+    <string name="continuar_google">Continuar com o Google</string>
+    <string name="continuar_facebook">Continuar com o Facebook</string>
+    <string name="cadastrar">CADASTRAR</string>
+    <string name="nome_completo">Nome completo</string>
+    <string name="btn_cadastrar">Cadastrar</string>
+    <string name="confirmacao_senha">Confirmação de senha</string>
+    <string name="ola_name">Olá, Grupo06</string>
+    <string name="acesso_e_seguranca">Acesso e segurança</string>
+    <string name="salvar">Salvar</string>
 </resources>

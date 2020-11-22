@@ -5,6 +5,8 @@
     <dimen name="dimen_30sp">30sp</dimen>
     <dimen name="dimen_16sp">16sp</dimen>
     <dimen name="dimen_60dp">60dp</dimen>
-    <dimen name="dimen_16sp">16sp</dimen>
     <dimen name="dimen_15dp">15dp</dimen>
+    <dimen name="dimen_24sp">24sp</dimen>
+    <dimen name="dimen_22dp">22dp</dimen>
+
 </resources>
